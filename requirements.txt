@@ -1,6 +1,12 @@
 numpy
 pandas
 matplotlib
+seaborn
+torch
+tensorflow
+transformers
+datasets
+mlxtend
+scikit-learn
 Pillow
 scikit-image
-scikit-learn
